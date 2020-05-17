@@ -1,4 +1,35 @@
+## MANUAL DE GITHUB EN WEB
+
+![Imagen 0](https://github.com/frikikardo/Manual-Github/blob/master/0.PNG)
+\Para crear un nuevo repositorio vamos en la parte izquierda superior en el símbolo + new repository
+
+![Imagen 1](https://github.com/frikikardo/Manual-Github/blob/master/1.PNG)
+
+Ahora le ponemos el nombre en este caso usamos el nombre de un repositorio ya creado por eso nos envía un aviso 
+![Imagen 2](https://github.com/frikikardo/Manual-Github/blob/master/2.PNG)
+Le podemos poner una descripción al proyecto.
+![Imagen 3](https://github.com/frikikardo/Manual-Github/blob/master/3.PNG)
+También está la opción de agregar el archivo README que nos permite dar la información sobre el proyecto,
+también como ahora mismo estamos usando la sintaxis de para agregar títulos imágenes e incluso links para
+crear un archivo más completo.
+
+Ahora dentro de nuestro repositorio podemos crear una rama en donde podemos agregar de forma paralela archivos 
+que pueden integrarse al master o no, según sea conveniente.
+![Imagen 4](https://github.com/frikikardo/Manual-Github/blob/master/4.PNG)
+
+En esta parte podemos crear nuevos archivos que vayan de acuerdo para el archivo principal.
+![Imagen 5](https://github.com/frikikardo/Manual-Github/blob/master/5.PNG)
+También usamos los comentarios de acuerdo al archivo que estamos creando o editando para saber de antemano que
+se esta cambiando o agregando al archivo.
+
+![Imagen 5](https://github.com/frikikardo/Manual-Github/blob/master/5.PNG)
+acá se puede agregar archivos en donde se cargan las imagenes o todo lo que sea relevante para nuestro repositorio
+y de las que podemos anexar al archivo readme como en este caso que estamos usando las imagenes que se muestran en este 
+archivo readme o incluso el uso de los [Link][blog] .
+
+[blog]: https://github.com/frikikardo/Manual-Github
 ## MANUAL DE GITBASH
+
 # Descarga git para Windows
 > Dentro del gitbash, se crea un repositorio nuevo con el siguiente comando:
 > git init
