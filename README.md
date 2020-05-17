@@ -6,5 +6,6 @@ este es un manual para el uso e implementación de github
 
 ![esta es la imagen](https://github.com/frikikardo/Manual-Github/blob/master/09.png)
 
-+ ***MANUAL GITHUB EN VWESION WEB***
++ ***MANUAL GITHUB EN VERION WEB***
 
+![imagen](https://github.com/frikikardo/Manual-Github/blob/master/07.PNG)
